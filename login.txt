@@ -1,1 +1,3 @@
 TODO figure out how to make a login page
+
+This seems like a hard problem!
